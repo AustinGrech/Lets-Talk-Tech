@@ -1,3 +1,3 @@
-seeds:node index.js
+worker: node ./seeds/index.js
 web:node server.js
 
