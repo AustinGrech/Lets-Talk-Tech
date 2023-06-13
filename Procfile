@@ -1,3 +1,3 @@
-seeds:node seeds/index.js
+seeds:node index.js
 web:node server.js
 
